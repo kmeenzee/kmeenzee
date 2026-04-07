@@ -1,8 +1,8 @@
 <h3>Introduce</h3>
 
-University: YeungNam 
-Major: Department of Computer Engineering
-E-mail: kmeenzee@gmail.com
+University: YeungNam<br>
+Major: Department of Computer Engineering<br>
+E-mail: kmeenzee@gmail.com<br>
 
 <h2>기술 스택</h2>
 <p>
