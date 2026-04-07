@@ -4,7 +4,6 @@ University: YeungNam<br>
 Major: Department of Computer Engineering<br>
 E-mail: kmeenzee@gmail.com<br>
 
-<br>
 
 <h2>기술 스택</h2>
 <p>
